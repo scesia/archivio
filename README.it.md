@@ -4,4 +4,4 @@
 ## Lista
 | Anno | N. Atti |
 | --- | --- |
-| [2025](2025/list.it.md) | 1 |
+| [2025](2025/list.it.md) | 2 |
